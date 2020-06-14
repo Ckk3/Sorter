@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#95FBD983</color>
+    <color name="colorPrimaryDark">#95FAD67A</color>
+    <color name="colorAccent">#D87326</color>
+    <color name="botão_sorteio">#8FB3FFF0</color>
+    <color name="background">#95FFEFC6</color>
+</resources>

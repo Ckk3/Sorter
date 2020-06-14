@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorteador</string>
+    <string name="intrucao">Digite os nomes:</string>
+    <string name="botao">Sortear</string>
+    <string name="pessoa1">Pessoa 1</string>
+    <string name="pessoa2">Pessoa 2</string>
+    <string name="resposta">O vencedor irá aparecer aqui</string>
+
+</resources>
